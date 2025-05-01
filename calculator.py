@@ -3,3 +3,6 @@ def add(a, b):
 ///sub
 def subtract(a, b):
     return a - b
+///multiplication
+
+def multiply(a, b): return a * b
