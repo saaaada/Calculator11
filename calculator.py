@@ -6,3 +6,7 @@ def subtract(a, b):
 ///multiplication
 
 def multiply(a, b): return a * b
+
+///division
+
+def divide(a, b): return a / b if b != 0 else 'Error'
